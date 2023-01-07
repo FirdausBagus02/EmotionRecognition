@@ -1,1 +1,2 @@
-# EmotionRecognition
+# Emotion Recognition Using Densenet-169
+Densenet-169 is a deep convolutional neural network (CNN) architecture that can be used for emotion recognition. CNNs are a type of machine learning model that are particularly well-suited for image classification tasks. They are able to learn features from the input data automatically, allowing them to accurately classify images based on the content and characteristics of the images.
